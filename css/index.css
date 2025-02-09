@@ -1,0 +1,27 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.jumbotron,
+#map {
+  background-color: #0093ab;
+}
+.img-jumbotron {
+  border: 2px solid #ffd124;
+  border-radius: 10px 50px;
+}
+#store,
+#medsos {
+  background-color: #006778;
+}
+.col-5 {
+  box-sizing: border-box;
+  padding: 10px;
+  float: left;
+}
+.box:after {
+  display: block;
+  clear: both;
+}
+#footer {
+  background-color: #ffd124;
+}
